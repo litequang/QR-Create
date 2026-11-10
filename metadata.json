@@ -1,0 +1,6 @@
+{
+  "name": "QRCode Studio Pro & Scientific Lab",
+  "description": "Trình tạo mã QR cao cấp phong cách Studio với tùy biến đa dạng, tích hợp logo và công cụ phân tích ma trận dữ liệu khoa học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
